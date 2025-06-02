@@ -5,6 +5,7 @@ using UnityEngine;
 public class outOfBounds : MonoBehaviour
 {
     public GameObject gm;
+    public GameObject skillDoor;
     public bool lifeLost = false;
     void OnTriggerEnter2D(Collider2D other)
     {
@@ -17,6 +18,7 @@ public class outOfBounds : MonoBehaviour
                 if (gm.GetComponent<GameManager>().lives > 0)
                 {
                     lifeLost = true;
+                    skillDoor.SetActive(false);
                 }
                 else
                 {

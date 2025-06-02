@@ -5,7 +5,6 @@ using UnityEngine;
 
 public class bumperMalfunction : MonoBehaviour
 {
-    private bool malfunction = false;
     public GameObject smog;
     public GameObject gm;
     public int smogWaveAmount = 3;
@@ -22,7 +21,6 @@ public class bumperMalfunction : MonoBehaviour
             currentTime++;
             if(currentTime >= maxTime)
             {
-                malfunction = true;
                 Debug.Log("malfunction!");
                 for (int i = 0; i < smogWaveAmount; i++)
                 {
@@ -31,20 +29,15 @@ public class bumperMalfunction : MonoBehaviour
                     Debug.Log("spawned smog");
                 }
                 gm.GetComponent<GameManager>().tally += 1;
-                malfunction = false;
                 resetTimer();
             }
         }
     }
 
-    public void smogMalfunction()
-    {
-        
-    }
+
     public void resetTimer()
     {
         currentTime = 0;
-        malfunction = false;
     }
     void Start()
     {
