@@ -16,7 +16,7 @@ public class plungerScript : MonoBehaviour
     {
         if (Input.GetKey(KeyCode.Space) && GetComponent<Transform>().position.y >= -5)
         {
-            GetComponent<Rigidbody2D>().velocity = Vector2.down * 50;
+            GetComponent<Rigidbody2D>().linearVelocity = Vector2.down * 50;
         }
         else if (Input.GetKey(KeyCode.Space))
         {

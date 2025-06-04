@@ -1,0 +1,1855 @@
+fileFormatVersion: 2
+guid: aaad8a745ca18264787a80d0af45f2ae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6817115430477842238
+    second: dr-pinball-credits_0
+  - first:
+      213: 8393652411744845682
+    second: dr-pinball-credits_1
+  - first:
+      213: -1373735447926438102
+    second: dr-pinball-credits_2
+  - first:
+      213: 8841375835752906465
+    second: dr-pinball-credits_3
+  - first:
+      213: 4975737852788035988
+    second: dr-pinball-credits_4
+  - first:
+      213: 6931502377408151878
+    second: dr-pinball-credits_5
+  - first:
+      213: 5765618220034177515
+    second: dr-pinball-credits_6
+  - first:
+      213: -7396868859004758305
+    second: dr-pinball-credits_7
+  - first:
+      213: 2248010655389970615
+    second: dr-pinball-credits_8
+  - first:
+      213: 1926535001354057500
+    second: dr-pinball-credits_9
+  - first:
+      213: 1624725611296880749
+    second: dr-pinball-credits_10
+  - first:
+      213: -4075590904950118711
+    second: dr-pinball-credits_11
+  - first:
+      213: 6573071170909383337
+    second: dr-pinball-credits_12
+  - first:
+      213: -5728776553157130500
+    second: dr-pinball-credits_13
+  - first:
+      213: -1651515088957392065
+    second: dr-pinball-credits_14
+  - first:
+      213: 268154431014367945
+    second: dr-pinball-credits_15
+  - first:
+      213: -3033885394001389924
+    second: dr-pinball-credits_16
+  - first:
+      213: 1175786333800967580
+    second: dr-pinball-credits_17
+  - first:
+      213: 6659951781913540734
+    second: dr-pinball-credits_18
+  - first:
+      213: -6488168328786150511
+    second: dr-pinball-credits_19
+  - first:
+      213: 68049854835016047
+    second: dr-pinball-credits_20
+  - first:
+      213: -79454944666358831
+    second: dr-pinball-credits_21
+  - first:
+      213: -149457924581615929
+    second: dr-pinball-credits_22
+  - first:
+      213: 6278773287451114654
+    second: dr-pinball-credits_23
+  - first:
+      213: 7170290762493853767
+    second: dr-pinball-credits_24
+  - first:
+      213: 1757001022906503287
+    second: dr-pinball-credits_25
+  - first:
+      213: -2442147918775390092
+    second: dr-pinball-credits_26
+  - first:
+      213: -7686211808285656887
+    second: dr-pinball-credits_27
+  - first:
+      213: -6019366460165699964
+    second: dr-pinball-credits_28
+  - first:
+      213: -4614765617367427887
+    second: dr-pinball-credits_29
+  - first:
+      213: 7270790521186262710
+    second: dr-pinball-credits_30
+  - first:
+      213: -1653066778600387457
+    second: dr-pinball-credits_31
+  - first:
+      213: 4729238574806342828
+    second: dr-pinball-credits_32
+  - first:
+      213: -581564803000476079
+    second: dr-pinball-credits_33
+  - first:
+      213: -7994419309142158619
+    second: dr-pinball-credits_34
+  - first:
+      213: 4449317527258554360
+    second: dr-pinball-credits_35
+  - first:
+      213: -4643120311182854508
+    second: dr-pinball-credits_36
+  - first:
+      213: 6207233438731574948
+    second: dr-pinball-credits_37
+  - first:
+      213: 7067141468994254270
+    second: dr-pinball-credits_38
+  - first:
+      213: 3094145291902377796
+    second: dr-pinball-credits_39
+  - first:
+      213: 6333356796723285685
+    second: dr-pinball-credits_40
+  - first:
+      213: 256677683676415188
+    second: dr-pinball-credits_41
+  - first:
+      213: 8402628946391104899
+    second: dr-pinball-credits_42
+  - first:
+      213: 5469489644268972084
+    second: dr-pinball-credits_43
+  - first:
+      213: 1516445092271842842
+    second: dr-pinball-credits_44
+  - first:
+      213: 1431255539873062961
+    second: dr-pinball-credits_45
+  - first:
+      213: -7743661170432777614
+    second: dr-pinball-credits_46
+  - first:
+      213: 1276819160795232720
+    second: dr-pinball-credits_47
+  - first:
+      213: -5155371118845645667
+    second: dr-pinball-credits_48
+  - first:
+      213: 9218279773116665755
+    second: dr-pinball-credits_49
+  - first:
+      213: -7576437402964838472
+    second: dr-pinball-credits_50
+  - first:
+      213: -6987177697021823676
+    second: dr-pinball-credits_51
+  - first:
+      213: 7035551708683117598
+    second: dr-pinball-credits_52
+  - first:
+      213: 7524975228604554995
+    second: dr-pinball-credits_53
+  - first:
+      213: 6214958908529706371
+    second: dr-pinball-credits_54
+  - first:
+      213: -8458454056424705397
+    second: dr-pinball-credits_55
+  - first:
+      213: -970049328438488965
+    second: dr-pinball-credits_56
+  - first:
+      213: 5827392694553525682
+    second: dr-pinball-credits_57
+  - first:
+      213: 8469675238425254424
+    second: dr-pinball-credits_58
+  - first:
+      213: -2984970667141463698
+    second: dr-pinball-credits_59
+  - first:
+      213: -4789095778286893484
+    second: dr-pinball-credits_60
+  - first:
+      213: -8005843131211875556
+    second: dr-pinball-credits_61
+  - first:
+      213: 7277207703018500585
+    second: dr-pinball-credits_62
+  - first:
+      213: 4905551782579397519
+    second: dr-pinball-credits_63
+  - first:
+      213: -8811877667352142965
+    second: dr-pinball-credits_64
+  - first:
+      213: 1620936637245608050
+    second: dr-pinball-credits_65
+  - first:
+      213: -6585125179920229907
+    second: dr-pinball-credits_66
+  - first:
+      213: -8083898360896066590
+    second: dr-pinball-credits_67
+  - first:
+      213: 1012695133974821396
+    second: dr-pinball-credits_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dr-pinball-credits_0
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1134
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8b88572adb461a0800000000000000
+      internalID: -6817115430477842238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_1
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1134
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ff622a56e3c7470800000000000000
+      internalID: 8393652411744845682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_2
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1134
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a278bf273e28fece0800000000000000
+      internalID: -1373735447926438102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_3
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1134
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee36cf9a70e2ba70800000000000000
+      internalID: 8841375835752906465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_4
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1134
+        width: 28
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49155eae63f5d0540800000000000000
+      internalID: 4975737852788035988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_5
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 1134
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641403500b4a13060800000000000000
+      internalID: 6931502377408151878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_6
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1134
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be938ab3937930050800000000000000
+      internalID: 5765618220034177515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_7
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1087
+        width: 94
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd65fd886fa095990800000000000000
+      internalID: -7396868859004758305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 1087
+        width: 84
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ffc5d7c9823f10800000000000000
+      internalID: 2248010655389970615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_9
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1190
+        width: 234
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17b013606d6cba10800000000000000
+      internalID: 1926535001354057500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_10
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1105
+        width: 212
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6874d6d55f2c8610800000000000000
+      internalID: 1624725611296880749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_11
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1144
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a2a45aa79077c0800000000000000
+      internalID: -4075590904950118711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_12
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 0
+        width: 574
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aa2a61876d383b50800000000000000
+      internalID: 6573071170909383337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_13
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 1087
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf68b77c31c4f70b0800000000000000
+      internalID: -5728776553157130500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 913
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3b3f75d6c3a419e0800000000000000
+      internalID: -1651515088957392065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 913
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2fe85c80da8b300800000000000000
+      internalID: 268154431014367945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_16
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 913
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c961d41fe4975e5d0800000000000000
+      internalID: -3033885394001389924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_17
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 918
+        width: 84
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9d27f5e07b315010800000000000000
+      internalID: 1175786333800967580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_18
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 918
+        width: 35
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78bf261cd6ec6c50800000000000000
+      internalID: 6659951781913540734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_19
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 918
+        width: 84
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19bf2cfd74565f5a0800000000000000
+      internalID: -6488168328786150511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_20
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 918
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6145708bf2c1f000800000000000000
+      internalID: 68049854835016047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_21
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 918
+        width: 73
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db63871628b5eef0800000000000000
+      internalID: -79454944666358831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_22
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 918
+        width: 73
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c612783fc40dedf0800000000000000
+      internalID: -149457924581615929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_23
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 918
+        width: 74
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c3cbfd90fa22750800000000000000
+      internalID: 6278773287451114654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_24
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 366
+        height: 889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74006ba657df18360800000000000000
+      internalID: 7170290762493853767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_25
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 799
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77017501f1f126810800000000000000
+      internalID: 1757001022906503287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 799
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470fe6c286fbb1ed0800000000000000
+      internalID: -2442147918775390092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_27
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 799
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c878ba6517155590800000000000000
+      internalID: -7686211808285656887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_28
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 799
+        width: 13
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4864ce0b81ae67ca0800000000000000
+      internalID: -6019366460165699964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_29
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 799
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4d02ffe1f05ffb0800000000000000
+      internalID: -4614765617367427887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_30
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 799
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be959be47907e460800000000000000
+      internalID: 7270790521186262710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_31
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 778
+        width: 289
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7c468fe5802f09e0800000000000000
+      internalID: -1653066778600387457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_32
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 694
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac186d5d61a1a140800000000000000
+      internalID: 4729238574806342828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_33
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 694
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e594794eddde7f0800000000000000
+      internalID: -581564803000476079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_34
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 694
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2de0d9efd1e0190800000000000000
+      internalID: -7994419309142158619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_35
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 694
+        width: 45
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ff5a21b7b62fbd30800000000000000
+      internalID: 4449317527258554360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_36
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 694
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4967b826da2509fb0800000000000000
+      internalID: -4643120311182854508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_37
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 694
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae9589dce5842650800000000000000
+      internalID: 6207233438731574948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_38
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 694
+        width: 56
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5b5d409b7831260800000000000000
+      internalID: 7067141468994254270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_39
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 588
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fd94fdfbc90fa20800000000000000
+      internalID: 3094145291902377796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_40
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 588
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be4f78737a94e750800000000000000
+      internalID: 6333356796723285685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_41
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 588
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d48d4d4ef6ef8300800000000000000
+      internalID: 256677683676415188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_42
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 588
+        width: 46
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d7e09f1822c9470800000000000000
+      internalID: 8402628946391104899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_43
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 588
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43864555ad787eb40800000000000000
+      internalID: 5469489644268972084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_44
+      rect:
+        serializedVersion: 2
+        x: 1362
+        y: 588
+        width: 34
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a166f36e6ce7b0510800000000000000
+      internalID: 1516445092271842842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_45
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 588
+        width: 14
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130a1f49457dcd310800000000000000
+      internalID: 1431255539873062961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_46
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 588
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2726e53713df88490800000000000000
+      internalID: -7743661170432777614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_47
+      rect:
+        serializedVersion: 2
+        x: 1467
+        y: 588
+        width: 35
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9bc99034c28b110800000000000000
+      internalID: 1276819160795232720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_48
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 567
+        width: 373
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca5ef18417478b0800000000000000
+      internalID: -5155371118845645667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_49
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 482
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f89c4fc98edef70800000000000000
+      internalID: 9218279773116665755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_50
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 482
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b73c4dd2561bd690800000000000000
+      internalID: -7576437402964838472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_51
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 482
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4457b7a77ee880f90800000000000000
+      internalID: -6987177697021823676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_52
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 482
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1423fac00d43a160800000000000000
+      internalID: 7035551708683117598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_53
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 482
+        width: 25
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe9694f9151e6860800000000000000
+      internalID: 7524975228604554995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_54
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 482
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3850094f238ff3650800000000000000
+      internalID: 6214958908529706371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_55
+      rect:
+        serializedVersion: 2
+        x: 1414
+        y: 482
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82f7d9b9d88d9a80800000000000000
+      internalID: -8458454056424705397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_56
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 387
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7051db7641b982f0800000000000000
+      internalID: -970049328438488965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_57
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 387
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdb195e7ce0fd050800000000000000
+      internalID: 5827392694553525682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_58
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 387
+        width: 56
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81a524d41c45a8570800000000000000
+      internalID: 8469675238425254424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_59
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 366
+        width: 172
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6182184ef04396d0800000000000000
+      internalID: -2984970667141463698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_60
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 281
+        width: 56
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45603eb63c6b98db0800000000000000
+      internalID: -4789095778286893484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_61
+      rect:
+        serializedVersion: 2
+        x: 1192
+        y: 281
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b7d94c61885e090800000000000000
+      internalID: -8005843131211875556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_62
+      rect:
+        serializedVersion: 2
+        x: 1235
+        y: 281
+        width: 35
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1772f79d5ddf460800000000000000
+      internalID: 7277207703018500585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_63
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 174
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83ede30b55041440800000000000000
+      internalID: 4905551782579397519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_64
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 174
+        width: 15
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b1749e2fbe5b580800000000000000
+      internalID: -8811877667352142965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_65
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 148
+        width: 93
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 270d0729849be7610800000000000000
+      internalID: 1620936637245608050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_66
+      rect:
+        serializedVersion: 2
+        x: 1132
+        y: 70
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de9df51d98fec94a0800000000000000
+      internalID: -6585125179920229907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_67
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 70
+        width: 41
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb6d66654930df80800000000000000
+      internalID: -8083898360896066590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dr-pinball-credits_68
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 70
+        width: 28
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41af55edbd0dd0e00800000000000000
+      internalID: 1012695133974821396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
